@@ -1,0 +1,67 @@
+# depslib dependency file v1.0
+1360665161 source:d:\programs\c++\project1\main.cpp
+	<iostream>
+	<string>
+	<cstdlib>
+	"projecy.h"
+
+1360899776 source:d:\programs\c++\project1\projecy.cpp
+	"projecy.h"
+	<iostream>
+	<string>
+	<sstream>
+	<cstdlib>
+	<fstream>
+
+1360656859 d:\programs\c++\project1\projecy.h
+
+1360914070 source:e:\project\project1\projecy.cpp
+	"projecy.h"
+	<iostream>
+	<string>
+	<sstream>
+	<cstdlib>
+	<fstream>
+
+1360914006 e:\project\project1\projecy.h
+
+1360913870 source:e:\project\project1\main.cpp
+	<iostream>
+	<string>
+	<cstdlib>
+	"projecy.h"
+
+1360944426 source:i:\project\project1\projecy.cpp
+	"projecy.h"
+	<iostream>
+	<sstream>
+	<fstream>
+	<vector>
+
+1360944454 i:\project\project1\projecy.h
+	<string>
+	<iostream>
+
+1360943098 source:i:\project\project1\main.cpp
+	<iostream>
+	<string>
+	<cstdlib>
+	"projecy.h"
+
+1361002026 source:c:\users\mich-pc\desktop\desktop\project1\projecy.cpp
+	"projecy.h"
+	<iostream>
+	<sstream>
+	<fstream>
+	<vector>
+
+1361002054 c:\users\mich-pc\desktop\desktop\project1\projecy.h
+	<string>
+	<iostream>
+
+1361000698 source:c:\users\mich-pc\desktop\desktop\project1\main.cpp
+	<iostream>
+	<string>
+	<cstdlib>
+	"projecy.h"
+
